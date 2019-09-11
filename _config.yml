@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Susan Hao"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "3rd year PhD student in cog neuro.  Interested in data science, emotion perception, and the brain."
-  location         : "Somewhere"
+  bio              : "3rd year PhD student at UC Berkeley studying Cognitive Neuroscience.  Interested in data science, emotion perception, and the brain."
+  location         : "Berkeley, CA"
   email            :
   links:
     - label: "Email"
