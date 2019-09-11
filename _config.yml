@@ -20,7 +20,7 @@ title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Susan Hao"
-description              : "3rd year PhD student in cog neuro.  Interested in data science, emotion perception, and the brain."
+description              : "PhD student at UC Berkeley.  Interested in data science, emotion perception, and the brain."
 url                      : "https://susanhao.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Susan Hao"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "3rd year PhD student at UC Berkeley studying Cognitive Neuroscience.  Interested in data science, emotion perception, and the brain."
+  bio              : "PhD student at UC Berkeley.  Interested in data science, emotion perception, and the brain."
   location         : "Berkeley, CA"
-  email            :
+  email            : "susanhao@berkeley.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -232,6 +232,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -292,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  
+    # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
