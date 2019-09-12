@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Susan Hao"
 description              : "PhD student at UC Berkeley.  Interested in data science, emotion perception, and the brain."
 url                      : "https://susanhao.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/"# the subpath of your site, e.g. "/blog"
+baseurl                  : "https://susanhao.github.io/about/"# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Susan Hao"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student at UC Berkeley.  Interested in data science, emotion perception, and the brain."
   location         : "Berkeley, CA"
   email            : "susanhao@berkeley.edu"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url:"https://github.com/susanhao"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -153,6 +153,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/susanhao/"
 
 
 # Reading Files

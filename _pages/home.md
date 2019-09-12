@@ -3,8 +3,8 @@ title: "About Me"
 layout: single
 author_profile: true
 header:
-    permalink: /about/
-permalink: /about/
+    permalink: /
+permalink: /
 ---
 
 I am a 3rd year PhD student at UC Berkeley studying Cognitive Neuroscience. I did my undergraduate degree in Computer Science and Cognitive Science at UPenn.
