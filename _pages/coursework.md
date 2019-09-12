@@ -6,7 +6,7 @@ header:
     permalink: /coursework/
 permalink: /coursework/
 ---
-Relevant coursework from UPenn and Berkeley.  Grad level coursework is in *italics*
+Relevant coursework from UPenn and Berkeley.  Grad level classes are in *italics*
 ## CS/Data Science
 - *Experimental Design for Machine Learning on Multimedia Data (CS 294-082 - currently enrolled)*
 - *Principles and Techniques of Data Science (CS C200A)*
