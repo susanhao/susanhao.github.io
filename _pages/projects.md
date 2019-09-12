@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 header:
     permalink: /projects/
-permalink: /projects
+permalink: /projects/
 ---
 
 ## Real Time Face Emotion Detection
