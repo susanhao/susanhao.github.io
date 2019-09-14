@@ -12,7 +12,7 @@ Education
 ---------
 
 2017-Present<br>
-<span style="font-size: 12pt">**PhD, Psychology - Cognitive Neuroscience**<br>
+<span style="font-size: 12pt">**PhD, Cognitive Neuroscience**<br>
 University of California, Berkeley<br>
 *Thesis advisor: Professor Sonia Bishop*</span>
 
