@@ -1,5 +1,5 @@
 ---
-title: "Curiculum Vitae"
+title: "Curriculum Vitae"
 layout: single
 author_profile: true
 header:
@@ -25,12 +25,10 @@ University of Pennsylvania<br>
 Skills
 ---------
 
-**Programming**<br>
-<span style="font-size: 12pt">Proficient in Python, R, C, Java, MATLAB, SQL<br>
+<span style="font-size: 12pt">**Programming**<br>Proficient in Python, R, C, Java, MATLAB, SQL<br>
 Knowledgeable in JavaScript, Assembly, SPSS </span>
 
-**Laboratory/Research Skills**<br>
-<span style="font-size: 12pt">fMRI, tDCS, Eye-tracking, Amazon Mechanical Turk</span>
+<span style="font-size: 12pt">**Laboratory/Research Skills**<br>fMRI, tDCS, Eye-tracking, Amazon Mechanical Turk</span>
 
 Awards
 ----------
@@ -50,3 +48,9 @@ Analysis with Movies. arXiv [cs.CV]. Retrieved from https://arxiv.org/abs/1901.0
 Research, 56, 23.</span>
 
 
+
+Outreach
+----------
+
+<span style="font-size: 12pt">2017-Present<br>**Graduate Student Mentor**<br> Be A Scientist (BAS), UC Berkeley</span> <br><br>
+<span style="font-size: 12pt">2015-2016<br>**Curriculum Chair**<br>Moelis Access Science - Computer Science, University of Pennsylvania</span>
