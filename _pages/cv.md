@@ -6,7 +6,7 @@ header:
     permalink: /cv/
 permalink: /cv/
 ---
-<span style="font-size: 13pt">For my full CV, click [here](https://drive.google.com/file/d/1O2RDMIgQtDXwRJSanKakTBx6AyI7hng3/view)</span>
+<span style="font-size: 13pt">For my full CV, click [here](https://drive.google.com/file/d/1EKbr495DN70Fz6Muz50kPoXaRKLyuSlZ/view?usp=sharing)</span>
 
 Education
 ---------
@@ -25,7 +25,7 @@ University of Pennsylvania<br>
 Skills
 ---------
 
-<span style="font-size: 12pt">**Programming**<br>Proficient in Python, R, C, Java, MATLAB, SQL<br>
+<span style="font-size: 12pt">**Programming Skills**<br>Proficient in Python, R, C, Java, MATLAB, SQL<br>
 Knowledgeable in JavaScript, Assembly, SPSS </span>
 
 <span style="font-size: 12pt">**Laboratory/Research Skills**<br>fMRI, tDCS, Eye-tracking, Amazon Mechanical Turk</span>
