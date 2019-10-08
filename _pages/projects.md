@@ -15,7 +15,7 @@ This project was for the Berkeley GDSO 2019 Data Science Workshop and aimed to d
 How are complex, naturalistic features of emotional faces encoded in the brain?  How does this differ in individuals who don't perceive emotions as well as others? In my primary research project, I use fMRI to implement a multi-feature encoding model that shows how different areas of the brain are tuned to certain face and emotion features. Moreover, we can see how these models differ in individuals with autistic traits which may give us insights into the neural correlates of emotion perception in Autism.
 
 ## Emotion Extraction in Natural Images of Crowds
-In this project, I investigate how individuals extract emotions from a natural scene of a crowd.  By investigating what features are used to extract certain emotions, we can gain a deeper understanding of how we process social-emotional cues and what features are integral to that process.
+In this project, I investigate how individuals extract emotions from a natural scene of a crowd.  By understanding what features are used when perceiving certain emotions, we can gain knowledge of how we process social-emotional cues and what features are integral to that process.
 
 
 ## Class Projects
