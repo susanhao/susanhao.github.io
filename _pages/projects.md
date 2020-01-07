@@ -19,6 +19,7 @@ In this project, I investigate how individuals extract emotions from a natural s
 
 
 ## Class Projects
+- Capacity Estimation of Convolutional Neural Networks for Classifying Motor Imagery Movements [report](https://drive.google.com/open?id=0B9CSYeIMIq4VTF8xcGFXb2s2YnJPTF9kQnhTbWRtOEkyRG5v)
 - Visualizing Topographic Independent Component Analysis with Movies [paper](https://arxiv.org/abs/1901.08239)<br>
 - Building an Operating System from Scratch [code](https://github.com/susanhao/Operating-System)<br>
 - Make-a-Rap [code](https://github.com/susanhao/nets-final-project)<br>
