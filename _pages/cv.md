@@ -38,17 +38,6 @@ Awards
 <span style="font-size: 12pt">2016 Graduation with Distinction in Cognitive Science, University of Pennsylvania</span><br>
 <span style="font-size: 12pt">2015 Netter Center Class of 1984 Endowed Intern, University of Pennsylvania</span>
 
-
-Publications
-----------
-
-<span style="font-size: 12pt">Chen, Z., Parvin, D., King, M., & **Hao, S**. (2019). Visualizing Topographic Independent Component
-Analysis with Movies. arXiv [cs.CV]. Retrieved from https://arxiv.org/abs/1901.08239 </span> <br><br>
-<span style="font-size: 12pt">Ruan, H., **Hao, S.**, & Young, P. (2015). Targeting Cathepsin B for Cancer Therapies. Horizons in Cancer
-Research, 56, 23.</span>
-
-
-
 Outreach
 ----------
 
