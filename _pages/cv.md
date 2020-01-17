@@ -25,8 +25,11 @@ University of Pennsylvania<br>
 Skills
 ---------
 
-<span style="font-size: 12pt">**Programming Skills**<br>Proficient in Python, R, C, Java, MATLAB, SQL<br>
+<span style="font-size: 12pt">**Programming Languages**<br>Proficient in Python, R, C, Java, MATLAB, SQL<br>
 Knowledgeable in JavaScript, Assembly, SPSS </span>
+
+<span style="font-size: 12pt">**Frameworks and Tools**<br>Proficient in Tensorflow, Keras, Git, Pandas, scikit-learn, Flask<br>
+Knowledgeable in jsPsych, Ray </span>
 
 <span style="font-size: 12pt">**Laboratory/Research Skills**<br>fMRI, tDCS, Eye-tracking, Amazon Mechanical Turk</span>
 
