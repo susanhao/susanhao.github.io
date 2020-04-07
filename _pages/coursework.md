@@ -8,7 +8,7 @@ permalink: /coursework/
 ---
 Relevant coursework from UPenn and Berkeley.  Grad level classes are in *italics*
 ## CS/Data Science
-- *Experimental Design for Machine Learning on Multimedia Data (CS 294-082 - currently enrolled)*
+- *Experimental Design for Machine Learning on Multimedia Data (CS 294-082)*
 - *Principles and Techniques of Data Science (CS C200A)*
 - *Data Analysis (PSYCH 205)*
 - Artificial Intelligence (CIS 421)
