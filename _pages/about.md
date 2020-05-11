@@ -7,7 +7,7 @@ header:
 permalink: /about/
 ---
 
-I am a 3rd year PhD student at UC Berkeley studying Cognitive Neuroscience. I did my undergraduate degree in Computer Science and Cognitive Science at UPenn.
+I am a 4th year PhD candidate at UC Berkeley studying Cognitive Neuroscience. I did my undergraduate degree in Computer Science and Cognitive Science at UPenn.
 <br><br>
 My current line of research uses a combination of neuroimaging and behavioral methods to build models of emotion and face representation in the brain.  I am interested in how these models differ in individuals with developmental disorders such as Autism.  
 <br>
