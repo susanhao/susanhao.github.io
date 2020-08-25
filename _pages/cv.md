@@ -6,13 +6,12 @@ header:
     permalink: /cv/
 permalink: /cv/
 ---
-<span style="font-size: 13pt">For my full CV, click [here](https://drive.google.com/file/d/1EKbr495DN70Fz6Muz50kPoXaRKLyuSlZ/view?usp=sharing)</span>
+
 
 Work Experience
 ---------
 Summer 2020<br>
-<span style="font-size: 12pt">**Data Science Intern**<br>
-Fiddler Labs<br>
+<span style="font-size: 12pt">**Data Science Intern**, Fiddler Labs<br>
 Researched explainable AI algorithms to help interpret and explain "black box" machine learning models. Implemented algorithms in production API code for customer deployment.
 
 
