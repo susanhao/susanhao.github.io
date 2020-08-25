@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Coursework"
-    url: /coursework/
+  - title: "Courses"
+    url: /courses/
   - title: "CV"
     url: /cv/
