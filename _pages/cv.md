@@ -8,6 +8,14 @@ permalink: /cv/
 ---
 <span style="font-size: 13pt">For my full CV, click [here](https://drive.google.com/file/d/1EKbr495DN70Fz6Muz50kPoXaRKLyuSlZ/view?usp=sharing)</span>
 
+Work Experience
+---------
+Summer 2020
+<span style="font-size: 12pt">**Data Science Intern*<br>
+Fiddler Labs<br>
+Researched explainable AI algorithms to help interpret and explain "black box" machine learning models. Implemented algorithms in production API code for customer deployment.
+
+
 Education
 ---------
 
@@ -29,15 +37,15 @@ Skills
 Knowledgeable in JavaScript, Assembly, SPSS </span>
 
 <span style="font-size: 12pt">**Frameworks and Tools**<br>Proficient in Tensorflow, Keras, Git, Pandas, scikit-learn, Flask<br>
-Knowledgeable in jsPsych, Ray </span>
+Knowledgeable in jsPsych, Docker </span>
 
 <span style="font-size: 12pt">**Laboratory/Research Skills**<br>fMRI, tDCS, Eye-tracking, Amazon Mechanical Turk</span>
 
 Awards
 ----------
-
+<span style="font-size: 12pt">2020 VSS Elsevier/Vision Research Travel Award </span><br>
 <span style="font-size: 12pt">2019 NSF GRFP Honorable Mention </span><br>
-<span style="font-size: 12pt">2018 HWNI Society for Neuroscience Travel Award ($500)</span><br>
+<span style="font-size: 12pt">2018 HWNI Society for Neuroscience Travel Award </span><br>
 <span style="font-size: 12pt">2016 Graduation with Distinction in Cognitive Science, University of Pennsylvania</span><br>
 <span style="font-size: 12pt">2015 Netter Center Class of 1984 Endowed Intern, University of Pennsylvania</span>
 
