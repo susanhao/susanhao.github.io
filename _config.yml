@@ -111,11 +111,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student at UC Berkeley.  Interested in data science, emotion perception, and the brain."
   location         : "Berkeley, CA"
-  email            : "susanhao@berkeley.edu"
+  email            : "susanhao16@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:susanhao@berkeley.edu
+      #url: mailto:susanhao16@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
