@@ -11,8 +11,7 @@ permalink: /cv/
 Work Experience
 ---------
 Summer 2020<br>
-<span style="font-size: 12pt">**Data Science Intern**<br>
-**Fiddler Labs**<br>
+<span style="font-size: 12pt">**Data Science Intern - Fiddler Labs**<br>
 Researched explainable AI algorithms to help interpret and explain "black box" machine learning models. Implemented algorithms in production API code for customer deployment.
 
 
