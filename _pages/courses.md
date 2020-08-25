@@ -9,7 +9,7 @@ permalink: /courses/
     
 ## Teaching
 <br>
-Courses taught as a graduate student instructor at UC Berkeley <br>
+**Courses taught as a graduate student instructor at UC Berkeley** <br>
 - Principles and Techniques of Data Science (DS C100)<br>
 - Perception (COGSCI C126)
 
@@ -17,7 +17,7 @@ Courses taught as a graduate student instructor at UC Berkeley <br>
 
 ## Courses Taken
 <br>
-Relevant coursework from UPenn and UC Berkeley<br>
+**Relevant coursework from UPenn and UC Berkeley**<br>
 - Intro to Computer Vision and Computational Photography (currently taking) (CS 294-26)<br>
 - Experimental Design for Machine Learning on Multimedia Data (CS 294-082)<br>
 - Principles and Techniques of Data Science (CS C200)<br>
