@@ -20,7 +20,7 @@ title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Susan Hao"
-description              : "PhD student at UC Berkeley.  Interested in data science, emotion perception, and the brain."
+description              : "PhD candidate at UC Berkeley.  Interested in machine learning, deep learning, and the brain."
 url                      : "https://susanhao.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
