@@ -6,7 +6,7 @@ header:
     permalink: /projects/
 permalink: /projects/
 ---
-<font size="12">
+<font size="1">
     
 ## Real Time Face Emotion Detection
 <span style="font-size: 12pt">
