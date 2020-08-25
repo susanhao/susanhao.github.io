@@ -6,6 +6,7 @@ header:
     permalink: /courses/
 permalink: /courses/
 ---
+<span style="font-size: 12pt">
 ## Teaching
 <br>
 Courses taught as a graduate student instructor at UC Berkeley <br>
