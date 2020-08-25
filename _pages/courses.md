@@ -6,7 +6,7 @@ header:
     permalink: /courses/
 permalink: /courses/
 ---
-##Teaching
+## Teaching
 <br>
 Courses taught as a graduate student instructor at UC Berkeley
 - Principles and Techniques of Data Science
@@ -14,7 +14,7 @@ Courses taught as a graduate student instructor at UC Berkeley
 
 
 
-##Courses Taken
+## Courses Taken
 <br>
 Relevant coursework from UPenn and UC Berkeley.  Grad level classes are in *italics*
 - *Intro to Computer Vision and Computational Photography (currently taking*
