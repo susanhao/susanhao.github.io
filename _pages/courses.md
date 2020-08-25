@@ -6,7 +6,7 @@ header:
     permalink: /courses/
 permalink: /courses/
 ---
-<font size="12">    
+<font size="0.75">    
     
 ## Teaching
 <br>
