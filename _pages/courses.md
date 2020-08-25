@@ -1,5 +1,5 @@
 ---
-title: "Course"
+title: "Courses"
 layout: single
 author_profile: true
 header:
