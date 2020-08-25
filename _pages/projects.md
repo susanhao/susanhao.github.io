@@ -7,6 +7,7 @@ header:
 permalink: /projects/
 ---
     
+<font size="12pt"
 ## Real Time Face Emotion Detection
 <span style="font-size: 12pt">
 This project was for the Berkeley GDSO 2019 Data Science Workshop and aimed to detect emotion of faces in real time using people's webcam.  We first used transfer learning with  pre-trained VGGFace to build a CNN that had ~64.4% accuracy (top 10 in the FER2013 Kaggle Challenge) in predicting basic face emotion. Then, we used Flask to develop an app that reads in frames from the webcam and inputs each frame's image into our model.  An emoji was then overlayed over the face on the webcam that corresponded to the model output.  Click [here](https://github.com/susanhao/emotion_project) for the github repo.
@@ -22,7 +23,6 @@ In this project, we aimed to understand the generalization capacity of selected 
 
 
 ## Class Projects
-<span style="font-size: 12pt">
 - Visualizing Topographic Independent Component Analysis with Movies [paper](https://arxiv.org/abs/1901.08239)<br>
 - Building an Operating System from Scratch [code](https://github.com/susanhao/Operating-System)<br>
 - Make-a-Rap [code](https://github.com/susanhao/nets-final-project)<br>
