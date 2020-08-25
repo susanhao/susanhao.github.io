@@ -8,25 +8,25 @@ permalink: /courses/
 ---
 ## Teaching
 <br>
-Courses taught as a graduate student instructor at UC Berkeley
-- Principles and Techniques of Data Science
+Courses taught as a graduate student instructor at UC Berkeley <br>
+- Principles and Techniques of Data Science <br>
 - Perception
 
 
 
 ## Courses Taken
 <br>
-Relevant coursework from UPenn and UC Berkeley.  Grad level classes are in *italics*
-- *Intro to Computer Vision and Computational Photography (currently taking*
-- *Experimental Design for Machine Learning on Multimedia Data *
-- *Principles and Techniques of Data Science *
-- - *Neural Computation *
-- *Data Analysis *
-- Artificial Intelligence 
-- Databases and Information Systems 
-- Computer Operating Systems 
-- Algorithms 
-- Automata, Computability, and Complexity 
+Relevant coursework from UPenn and UC Berkeley.  Grad level classes are in *italics* <br>
+- *Intro to Computer Vision and Computational Photography (currently taking)* <br>
+- *Experimental Design for Machine Learning on Multimedia Data * <br>
+- *Principles and Techniques of Data Science * <br>
+- *Neural Computation * <br>
+- *Data Analysis * <br>
+- Artificial Intelligence <br>
+- Databases and Information Systems <br>
+- Computer Operating Systems <br>
+- Algorithms <br>
+- Automata, Computability, and Complexity <br>
 - Crowdsourcing and Human Computation 
 
 
