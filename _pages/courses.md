@@ -6,10 +6,8 @@ header:
     permalink: /courses/
 permalink: /courses/
 ---
-<span style="font-size: 12pt">
-    
+<font size="12">    
 ## Teaching
-<span style="font-size: 12pt">
 <br>
 Courses taught as a graduate student instructor at UC Berkeley <br>
 - Principles and Techniques of Data Science (DS C100)<br>
