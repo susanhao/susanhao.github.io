@@ -1,3 +1,13 @@
+---
+title: "Project2_Markdown"
+layout: single
+author_profile: true
+header:
+    permalink: /cs194-26/Project2_Markdown/
+permalink: /cs194-26/Project2_Markdown/
+---
+
+
 # CS 294-26 Project 2
 
 ## Overview
