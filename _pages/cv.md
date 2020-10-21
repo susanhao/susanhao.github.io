@@ -33,10 +33,8 @@ Skills
 ---------
 
 <span style="font-size: 12pt">**Programming Languages**<br>Proficient in Python, R, C, Java, MATLAB, SQL<br>
-Knowledgeable in JavaScript, Assembly, SPSS </span>
 
-<span style="font-size: 12pt">**Frameworks and Tools**<br>Proficient in Tensorflow, Keras, Git, Pandas, scikit-learn, Flask<br>
-Knowledgeable in jsPsych, Docker </span>
+<span style="font-size: 12pt">**Frameworks and Tools**<br>Proficient in Tensorflow, Keras, OpenCV, Git, Pandas, scikit-learn, Flask<br>
 
 <span style="font-size: 12pt">**Laboratory/Research Skills**<br>fMRI, tDCS, Eye-tracking, Amazon Mechanical Turk</span>
 
@@ -51,5 +49,5 @@ Awards
 Outreach
 ----------
 
-<span style="font-size: 12pt">2017-Present<br>**Graduate Student Mentor**<br> Be A Scientist (BAS), UC Berkeley</span> <br><br>
+<span style="font-size: 12pt">2017-2020<br>**Graduate Student Mentor**<br> Be A Scientist (BAS), UC Berkeley</span> <br><br>
 <span style="font-size: 12pt">2015-2016<br>**Curriculum Chair**<br>Moelis Access Science - Computer Science, University of Pennsylvania</span>
