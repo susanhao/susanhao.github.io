@@ -12,7 +12,7 @@ Work Experience
 ---------
 Summer 2020<br>
 <span style="font-size: 12pt">**Data Science Intern - Fiddler Labs**<br>
-Researched explainable AI algorithms to help interpret and explain "black box" machine learning models. Implemented algorithms in production API code for customer deployment.
+Researched algorithms to explain black box machine learning models and deployed algorithm production code to customers. Developed a pattern-mining tool that can be applied to data and its model to generate logical predicates identifying segments with atypical behavior (ie high model loss).
 
 
 Education
